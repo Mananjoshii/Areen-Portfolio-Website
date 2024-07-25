@@ -516,3 +516,6 @@ header nav .search i {
   margin-left: 330px;
 
 }
+.shadow{
+  box-shadow: 10px 10px 20px #f134cf;
+}
